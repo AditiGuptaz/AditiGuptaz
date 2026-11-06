@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Aditi Gupta 👋
 
-<!--
-**AditiGuptaz/AditiGuptaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineering | Generative AI | Agentic AI | Data Analytics**
 
-Here are some ideas to get you started:
+I'm a software engineer with an **M.S. in Computer Science from Stevens Institute of Technology**, combining experience in enterprise software development, pharmaceutical analytics, and AI application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Exploring
+Generative AI • AI Agents • LangGraph • RAG • LLM Evaluation • Stanford Probability for AI
+
+### 🛠️ Technical Skills
+- **AI & GenAI:** LangGraph, LangChain, OpenAI APIs, RAG
+- **Programming & Backend:** Python, SQL, JavaScript, FastAPI, Pydantic
+- **Data Analytics:** Tableau, Advanced Excel
+- **Web Development:** React, Node.js
+
+### 💼 Professional Background
+- **Data Analytics:** Pharmaceutical analytics, SQL, Tableau dashboards, KPI reporting
+- **Software Engineering:** Enterprise banking applications using Temenos T24
+- **Full-Stack Development:** React and Node.js applications
+
+### 🎓 Education
+**M.S. Computer Science** — Stevens Institute of Technology  
+**B.Tech. Computer Science** — Rajasthan Technical University
+
+### 🤝 Let's Connect
+Open to **AI Engineer** and **Applied AI Engineer** opportunities.
+
+[LinkedIn](https://www.linkedin.com/in/aditi-gupta-78bb518b/)
